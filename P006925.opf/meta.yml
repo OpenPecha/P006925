@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W3CN6603
   title: བྱ་སྤྲེལ་གཏམ་རྒྱུད།
   author: ''
-  volumes: {}
+  volumes:
+    fd4b0c7d602246bca86d52a80bbb0cc2:
+      image_group_id: I3CN6605
+      title: ''
+      volume_number: 1
+      total_pages: 57
